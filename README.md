@@ -1,7 +1,5 @@
 # HTML-JS-CSS-Mini-Apps
 
-Aquí tienes un README en formato Markdown para tu repositorio en GitHub, explicando cada uno de los proyectos HTML:
-
 ---
 
 # Proyectos en HTML y JavaScript
