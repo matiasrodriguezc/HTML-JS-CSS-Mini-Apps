@@ -47,5 +47,3 @@ Este proyecto es una calculadora sencilla que permite sumar dos valores ingresad
 - `js/app.js`: Script que contiene la función de suma y muestra el resultado.
 
 ---
-
-Cada proyecto incluye instrucciones en sus archivos JavaScript y HTML para configurar y probar cada funcionalidad.
